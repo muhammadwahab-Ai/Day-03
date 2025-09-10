@@ -13,7 +13,7 @@
 function checkNumber(num) {
     let Res = (num % 2 === 0) ? "Even" : "odd"
     console.log(`The ${num}  is  ${Res}`);
-    n
+    
 }
 
 checkNumber(2)

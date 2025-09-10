@@ -14,7 +14,3 @@ function checkYear(year) {
 checkYear(2015)
 
 
-
-
-
-
